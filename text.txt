@@ -7,4 +7,4 @@ test après avoir corrigé l'erreur du Pull manquant
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Test pour rattrapper les futures conneries :
 
-- utilisation de diff
+truc écrit
